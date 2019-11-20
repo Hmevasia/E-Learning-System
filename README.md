@@ -1,5 +1,5 @@
 # E-Learning-SystemE-Learning-System
-Project Guide on my Blog: - https://virendra.tech.blog/2019/01/27/my-c-projects/
+
 
 Table of Contents
 Description
@@ -98,7 +98,7 @@ This form allows the tutor to update their course directly from their account.
 License
 This Project is licensed under MIT License
 
-Copyright (c) [2019] [Virendr Vyas]
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
